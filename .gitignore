@@ -1,0 +1,11 @@
+*.class
+*.log
+.bsp/
+.idea/
+node_modules/
+target/
+frontend/target/
+backend/target/
+shared/target/
+dist/
+project/project
