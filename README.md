@@ -1,13 +1,9 @@
 # vinsan
 
-A full-stack Scala application powered by ZIO and Laminar.
+This repo contains some exploration into ScalaJS and frontend/fullstack development.
+The base was created using **[zio-app](https://github.com/kitlangton/zio-app)**.
 
-Created with **[zio-app](https://github.com/kitlangton/zio-app)**.
-
-## Run with zio-app
-
-1. `zio-app dev`
-2. open `http://localhost:3000`
+Check out the results on www.moving-cubes.surge.sh.
 
 ## Run Manually
 
